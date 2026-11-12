@@ -17,7 +17,7 @@ class ComparativoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'comparativo. — Web, React Native ou Flutter?',
+      title: 'comparativo. Web, React Native ou Flutter? | Claudio Alvarenga',
       debugShowCheckedModeBanner: false,
       theme: temaAgencia(),
       home: const Estrutura(),

@@ -15,7 +15,7 @@ pelo motor do Flutter, não pelo DOM.
 ## O que tem
 
 - **Início**: o pipeline de renderização da Web, do React Native e do Flutter.
-- **Web × Flutter**: 16 aspectos (renderização, linguagem, distribuição, layout,
+- **Web × Flutter**: 17 aspectos (renderização, linguagem, distribuição, layout,
   estilo, estado, hardware, performance, SEO, offline, acessibilidade...).
 - **React Native × Flutter**: 17 aspectos (arquitetura Fabric/JSI contra
   Impeller, visual nativo, componentes, listas, navegação, OTA, ecossistema...).
