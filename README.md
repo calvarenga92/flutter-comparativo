@@ -12,6 +12,11 @@ pelo motor do Flutter, não pelo DOM.
 
 `Flutter 3.50` · `Dart 3.14` · `Material 3` · `Vercel`
 
+## Design e fluxo de UX
+
+- [Telas no Figma](https://www.figma.com/design/1T4Btch5hCvofWmRGmQM6x?node-id=2-1900)
+- [Fluxo de UX no Figma](https://www.figma.com/design/uTnOgVhzcVUIGBXPrWHoCf?node-id=26-512): explorar as comparações e fazer o teste de recomendação
+
 ## O que tem
 
 - **Início**: o pipeline de renderização da Web, do React Native e do Flutter.
